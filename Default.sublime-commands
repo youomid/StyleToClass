@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "StyleToClass: Convert all styles to a class",
+        "command": "style_to_class"
+    },
+]
